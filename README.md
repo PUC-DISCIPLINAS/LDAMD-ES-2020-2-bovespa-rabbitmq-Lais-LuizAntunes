@@ -2,7 +2,7 @@
 
 ## Alunos:
 
-- Laís
+- Laís Helena
 - Luiz Felipe Antunes
 
 ## Professor: 
